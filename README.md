@@ -18,9 +18,9 @@
     <div>
         <h1 style="color:yellow">Zlatan Fan Page</h1>
     <ul class="nav nav-pills">
-      <li role="presentation"><a href="http://www.biography.com/people/zlatan-ibrahimovic-21342025">About</a></li>
-      <li role="presentation"><a href="https://www.youtube.com/watch?v=iCzw9IdiE_0">Quote</a></li>
-      <li role="presentation"><a href="https://www.youtube.com/watch?v=ln35qLphK4I">Skills and Goals</a></li>
+      <li role="presentation"><a href="Neymar.html">Neymar</a></li>
+      <li role="presentation"><a href="Bale.html">Bale</a></li>
+      <li role="presentation"><a href="zlatan.html">Zlatan</a></li>
     </ul>
     </div>
     </body>
